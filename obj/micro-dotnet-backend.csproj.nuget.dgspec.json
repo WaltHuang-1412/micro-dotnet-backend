@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/walter/Documents/GitHub/micro-dotnet-backend/micro-dotnet-backend/micro-dotnet-backend.csproj": {}
+    "/Users/walter/Documents/GitHub/micro-dotnet-backend/micro-dotnet-backend.csproj": {}
   },
   "projects": {
-    "/Users/walter/Documents/GitHub/micro-dotnet-backend/micro-dotnet-backend/micro-dotnet-backend.csproj": {
+    "/Users/walter/Documents/GitHub/micro-dotnet-backend/micro-dotnet-backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/walter/Documents/GitHub/micro-dotnet-backend/micro-dotnet-backend/micro-dotnet-backend.csproj",
+        "projectUniqueName": "/Users/walter/Documents/GitHub/micro-dotnet-backend/micro-dotnet-backend.csproj",
         "projectName": "micro-dotnet-backend",
-        "projectPath": "/Users/walter/Documents/GitHub/micro-dotnet-backend/micro-dotnet-backend/micro-dotnet-backend.csproj",
+        "projectPath": "/Users/walter/Documents/GitHub/micro-dotnet-backend/micro-dotnet-backend.csproj",
         "packagesPath": "/Users/walter/.nuget/packages/",
-        "outputPath": "/Users/walter/Documents/GitHub/micro-dotnet-backend/micro-dotnet-backend/obj/",
+        "outputPath": "/Users/walter/Documents/GitHub/micro-dotnet-backend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/walter/.nuget/NuGet/NuGet.Config"
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
